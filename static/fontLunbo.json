@@ -1,0 +1,98 @@
+{
+    "status": 0,
+    "data": [
+        {
+            "cms_wap_index": {
+                "id": "3",
+                "platform_id": "2",
+                "window_type": "2",
+                "switch_type": "1",
+                "content_source": "2",
+                "close_btn": "1",
+                "close_after": "1",
+                "assign_id": "0",
+                "window_size": "",
+                "create_time": "2017-06-20 17:25:58",
+                "status": "1",
+                "switch_time": 0,
+                "data": []
+            },
+            "cms_wap_roll": {
+                "id": "4",
+                "platform_id": "2",
+                "window_type": "3",
+                "switch_type": "2",
+                "content_source": "1",
+                "close_btn": "2",
+                "close_after": "3",
+                "assign_id": "0",
+                "window_size": "",
+                "create_time": "2017-06-20 17:26:01",
+                "status": "1",
+                "switch_time": 10000,
+                "data": []
+            },
+            "cms_wap_right": {
+                "id": "5",
+                "platform_id": "2",
+                "window_type": "4",
+                "switch_type": "1",
+                "content_source": "2",
+                "close_btn": "2",
+                "close_after": "3",
+                "assign_id": "0",
+                "window_size": "",
+                "create_time": "2017-06-20 17:26:03",
+                "status": "1",
+                "switch_time": 0,
+                "data": []
+            },
+            "cms_wap_yhkb": {
+                "id": "10",
+                "platform_id": "2",
+                "window_type": "5",
+                "switch_type": "2",
+                "content_source": "1",
+                "close_btn": "2",
+                "close_after": "3",
+                "assign_id": "0",
+                "window_size": "",
+                "create_time": "2017-06-28 16:13:19",
+                "status": "1",
+                "switch_time": 3000,
+                "data": [
+                    {
+                        "ad_id": "20170727010",
+                        "content_type": "1",
+                        "title": "孩子长高的信号，宝妈切勿错过",
+                        "win_id": "10",
+                        "img_url": "",
+                        "start_time": "2017-07-28 15:00:00",
+                        "end_time": "2017-07-29 09:30:00",
+                        "content": "d6d15d9835e1e21f",
+                        "open_type": "2",
+                        "status": "1",
+                        "flash_content": "孩子长高的信号，宝妈切勿错过",
+                        "flash_title": "速来get",
+                        "href": "/index1.php?r=a/t&i=d6d15d9835e1e21f"
+                    },
+                    {
+                        "ad_id": "20170727012",
+                        "content_type": "1",
+                        "title": "原来空调一直都用错了，这样用才",
+                        "win_id": "10",
+                        "img_url": "",
+                        "start_time": "2017-07-28 15:00:00",
+                        "end_time": "2017-07-29 09:30:00",
+                        "content": "d66bf51e0926897c",
+                        "open_type": "2",
+                        "status": "1",
+                        "flash_content": "原来空调一直都用错了，这样用才最省钱！",
+                        "flash_title": "惊人",
+                        "href": "/index1.php?r=a/t&i=d66bf51e0926897c"
+                    }
+                ]
+            }
+        }
+    ]
+}
